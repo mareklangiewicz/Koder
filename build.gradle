@@ -4,8 +4,8 @@ plugins {
 repositories {
     mavenCentral()
 }
-group 'com.example'
-version '0.0.1'
+group 'com.github.langara.koder'
+version '0.0.2'
 
 apply plugin: 'maven-publish'
 
