@@ -1,4 +1,4 @@
-package sample
+package pl.mareklangiewicz.koder
 
 actual class Sample {
     actual fun checkMe() = 12

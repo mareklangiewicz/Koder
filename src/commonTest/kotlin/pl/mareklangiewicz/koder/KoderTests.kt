@@ -1,4 +1,4 @@
-package sample
+package pl.mareklangiewicz.koder
 
 import kotlin.test.Test
 import kotlin.test.assertEquals

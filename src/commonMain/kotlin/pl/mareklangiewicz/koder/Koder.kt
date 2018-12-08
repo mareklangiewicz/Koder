@@ -1,4 +1,4 @@
-package sample
+package pl.mareklangiewicz.koder
 
 interface Koder {
     fun encode(password: String, src: ByteArray): ByteArray

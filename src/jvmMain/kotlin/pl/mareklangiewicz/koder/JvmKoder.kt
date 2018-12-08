@@ -1,4 +1,4 @@
-package sample
+package pl.mareklangiewicz.koder
 
 import java.util.*
 

@@ -1,4 +1,4 @@
-package sample
+package pl.mareklangiewicz.koder
 
 expect class Sample() {
     fun checkMe(): Int

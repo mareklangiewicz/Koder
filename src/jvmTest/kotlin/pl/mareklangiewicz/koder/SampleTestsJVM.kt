@@ -1,11 +1,11 @@
-package sample
+package pl.mareklangiewicz.koder
 
 import kotlin.test.Test
 import kotlin.test.assertTrue
 
-class SampleTestsJS {
+class SampleTestsJVM {
     @Test
     fun testHello() {
-        assertTrue("JS" in hello())
+        assertTrue("JVM" in hello())
     }
 }

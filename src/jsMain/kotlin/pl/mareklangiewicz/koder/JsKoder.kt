@@ -1,4 +1,4 @@
-package sample
+package pl.mareklangiewicz.koder
 
 actual object KoderFactory {
     actual fun provideKoder(): Koder = JsKoder
