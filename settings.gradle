@@ -7,6 +7,6 @@ pluginManagement {
         }
     }
 }
-rootProject.name = 'koder'
+rootProject.name = ("koder")
 
-enableFeaturePreview('GRADLE_METADATA')
+enableFeaturePreview("GRADLE_METADATA")
